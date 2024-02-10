@@ -1,0 +1,3 @@
+message to someone.example@mail.com
+message to johndoe.example@mail.com
+message to pizza.example@mail.com
